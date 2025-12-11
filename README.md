@@ -118,16 +118,6 @@ Click Save
 
 Your site will be live in 30–60 seconds.
 
-💡 Future Enhancements
-
-Add phone number validation
-
-Add password strength text (Weak/Medium/Strong)
-
-Add dark mode toggle
-
-Add backend API for actual registration
-
 📝 Author
 
 Logeswari
